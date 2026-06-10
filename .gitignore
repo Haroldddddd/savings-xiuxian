@@ -1,0 +1,8 @@
+# 用户运行时数据（个人记账记录，不应入库）
+savings-data/
+
+# 本地权限/设置
+.claude/settings.local.json
+
+# macOS
+.DS_Store
